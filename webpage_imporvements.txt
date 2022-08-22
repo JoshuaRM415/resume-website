@@ -1,0 +1,18 @@
+
+We want to add a main header with my name, and a nav bar that are separate from the main body. 
+So some kind of differentiating background color.
+Then have body section elongated so that you can scroll a little.
+Then a footer with another nav bar section. 
+
+Add pictures in webpage woth borders. Add test around these pictures. Match the colors.
+
+Sections that are a big bblock of color and text within them that has borders and matching styling.
+
+buttons to modify pictures or change colors on the screen.
+
+maybe find a pic (with no background or same color as our page) of a knob and use a button to 
+rotate the nob so specific labels around the pic of the knob. Interactivity.
+
+Redo programming languages list so that it is automated code that can pull from an array of 
+languages and automatically create new li elements with and id, class, innerHTML, and append it to
+the list.
